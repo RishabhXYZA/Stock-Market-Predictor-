@@ -1,7 +1,8 @@
 # Stock Market Predictor
 Build a Stock Market Predictor streamlit application
-# Technologies Used
+# 💻 Technologies Used
 Python,Numpy,Pandas,Keras(ML),Streamlit,LTSM
+# 🚀 Features
 1. Real-time Stock Data Input: Users can enter any valid stock ticker symbol to fetch historical market data.
 2. Data Preprocessing Pipeline: Includes feature scaling, date-time indexing, and sequence preparation for LSTM input.
 3. Deep Learning Model: LSTM neural network trained with Keras to capture time-series dependencies and patterns.
